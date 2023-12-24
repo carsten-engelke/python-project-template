@@ -21,6 +21,8 @@ See also
 4. Read the file [CONTRIBUTING.md](CONTRIBUTING.md)
 5. Then clone your new project and happy coding!
 
+Note: A good tool for Tkinter GUI Design ist the Pygubu Designer!
+
 > **NOTE**: **WAIT** until first CI run on github actions before cloning your new project.
 
 ### What is included on this template?
